@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a target="_blank" href="https://twitter.com/nico_eugui"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnico_eugui"/></a> &nbsp;
+    <a target="_blank" href="https://discord.gg/hgHcTqg4T6"><img src="https://img.shields.io/badge/Support-Discord-yellow"/></a> &nbsp;
 </p>
 
 
