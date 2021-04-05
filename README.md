@@ -2,6 +2,7 @@
 
 - 📥 [Disord Support](https://discord.gg/hgHcTqg4T6)
 - 📞 Support language: Spanish 🇺🇾 / English 🇺🇸
+- 📝[e-mail](nicolaseugui2021@gmail.com)
 
 
 
