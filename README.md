@@ -1,9 +1,9 @@
 # Hello! Nice to meet you!
 <a href="https://github.com/NicoEugui">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true$custom_title=Estadisticas&count_private=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/NicoEugui">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&count_private=true&layout=compact&theme=dark" />
 </a>
 
 <p align="center">
