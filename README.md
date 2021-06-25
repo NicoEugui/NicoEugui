@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/NicoEugui">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&layout=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&layout=compact"/>
 </a>
 
 <p align="center">
