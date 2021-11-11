@@ -15,8 +15,8 @@
 </a>
 <a href="https://github.com/NicoEugui">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&layout=compact&theme=dark"/> -->
-  ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 </a>
+ ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
 
 
 
