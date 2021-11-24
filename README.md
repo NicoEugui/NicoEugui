@@ -7,7 +7,7 @@
 
 - 🏢 I am currently studying at **UTU Mercedes, Soriano Uruguay**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
-- 🌱 Learning all about **Open Source**
+- 🌱 Learning all about **Technology**
 - 📫 Reach me: [twitter.com/nico_eugui](https://twitter.com/nico_eugui)
 - ⚡️ Fun fact: I'm a huge fan of Music and Mate
 <a href="https://github.com/NicoEugui">
