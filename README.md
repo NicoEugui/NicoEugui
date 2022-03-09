@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-#### I'm a IT Student from Uruguay currently to enter the university.
+#### I'm a IT Student from Uruguay.
 
 
 ##### BIO
 
-- 🏢 I am currently studying at **UTU Mercedes, Soriano Uruguay**
+- 🏢 I am currently studying Bachelor's **Degree in Information Technologies** at the UTEC Technological Faculty
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Technology**
 - 📫 Reach me: [twitter.com/nico_eugui](https://twitter.com/nico_eugui)
