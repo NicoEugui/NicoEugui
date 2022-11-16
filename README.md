@@ -6,7 +6,7 @@
 ##### BIO
 
 - 🏢 I am currently studying Bachelor's **Degree in Information Technologies** at the UTEC Technological Faculty
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.java`
 - 🌱 Learning all about **Technology**
 - 📫 Reach me: [twitter.com/nico_eugui](https://twitter.com/nico_eugui)
 - ⚡️ Fun fact: I'm a huge fan of Music and Mate
