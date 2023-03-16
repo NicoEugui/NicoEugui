@@ -13,7 +13,9 @@
 <a href="https://github.com/NicoEugui">
   <img src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&count_private=true&theme=dark" />
 </a>
-![](https://raw.githubusercontent.com/NicoEugui/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<a href="https://github.com/NicoEugui">
+  <img src="https://github.com/NicoEugui/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
 
  
 
