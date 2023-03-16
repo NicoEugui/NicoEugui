@@ -11,7 +11,7 @@
 - 📫 Reach me: [twitter.com/nico_eugui](https://twitter.com/nico_eugui)
 - ⚡️ Fun fact: I'm a huge fan of Music
 <a href="https://github.com/NicoEugui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&include_all_commits=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/NicoEugui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&include_all_commits=true&theme=dark" />
