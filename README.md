@@ -14,7 +14,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NicoEugui&show_icons=true&show_icons=true&count_private=true&theme=dark" />
 </a>
 <a href="https://github.com/NicoEugui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoEugui&count_private=true&theme=dark" />
 </a>
 
  
