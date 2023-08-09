@@ -21,3 +21,11 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,git" />
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nicoeugui/nicoeugui/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
