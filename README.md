@@ -4,7 +4,12 @@
 ## A Backend Developer JR from Uruguay
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/nicoeugui)
+<p align="center">
+  <a href="https://linkedin.com/in/nicoeugui" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicoeugui" height="30" width="40" />
+  </a>
+</p>
+
 
 ### Languages and Tools:
 <p align="center">
