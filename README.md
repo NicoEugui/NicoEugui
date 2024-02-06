@@ -1,8 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nicolas+Eugui!;" />
-</h1>
-
-<h3 align="center">A Junior Backend Developer from Uruguay</h3>
+<img src="https://cdn.discordapp.com/attachments/710202945601273937/1204509045952614410/5.png?ex=65d4fd77&is=65c28877&hm=460532776cb42973024e459cfe5b25ab26c9148687b88998ebce01d6e522036b&" />
 
 <br/>
 
