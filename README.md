@@ -1,3 +1,5 @@
+<img src="https://cdn.discordapp.com/attachments/1154140630914699355/1204456177665179659/example-2.png?ex=65d4cc3a&is=65c2573a&hm=4322dba54ca64e8849e3ad7f0cbc1227c231494729ef9b69e8e665f315b0c7e6&" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nicolas+Eugui!;" />
 </h1>
