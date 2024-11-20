@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Skills & Tools</h2>
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,python,aws,mysql,postgres,mongodb,docker,git"
+    src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,python,ruby,aws,mysql,postgres,mongodb,redis,docker,git"
   />
 </div>
 <h2 align="center">💼 Experience</h2>
