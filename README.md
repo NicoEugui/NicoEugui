@@ -33,7 +33,7 @@
 <div align="center">
   <ul>
     <li>
-      <b>nuuxia</b> - Co-Founder & COO <i>September 2024 - Present</i><br />
+      <b>nuuxia</b> - Co-Founder & COO <br />
       Leading backend development, managing operations, and delivering scalable
       solutions tailored to client needs.
     </li>
