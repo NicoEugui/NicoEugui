@@ -17,8 +17,7 @@
 </div>
 <h2 align="center">💼 Professional Summary</h2>
 <p align="center">
-  Experienced Back-End Developer and COO at
-  <a href="https://nuuxia.com" target="_blank">nuuxia</a>, specializing in
+  Experienced Back-End Developer, specializing in
   creating scalable and high-performance systems. I combine technical expertise
   with strategic management to deliver innovative solutions and optimize
   workflows.
@@ -29,16 +28,7 @@
     src="https://skillicons.dev/icons?i=nextjs,typescript,nodejs,python,ruby,aws,mysql,postgres,mongodb,redis,docker,git"
   />
 </div>
-<h2 align="center">💼 Experience</h2>
-<div align="center">
-  <ul>
-    <li>
-      <b>nuuxia</b> - Co-Founder & COO <br />
-      Leading backend development, managing operations, and delivering scalable
-      solutions tailored to client needs.
-    </li>
-  </ul>
-</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img
